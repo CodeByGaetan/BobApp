@@ -1,6 +1,20 @@
 # BobApp
 
-Clone project:
+## Sonar Cloud
+Front-end  
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=codebygaetan_BobApp_front&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=codebygaetan_BobApp_front)
+
+Back-end  
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=codebygaetan_BobApp_back&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=codebygaetan_BobApp_back)
+
+## Docker Hub
+Front-end  
+[![DockerHub Front](https://img.shields.io/badge/dockerhub-bobappfront-blue.svg?logo=Docker)](https://hub.docker.com/repository/docker/codebygaetan/bobapp-front/general)
+
+Back-end  
+[![DockerHub Front](https://img.shields.io/badge/dockerhub-bobappback-blue.svg?logo=Docker)](https://hub.docker.com/repository/docker/codebygaetan/bobapp-back/general)
+
+## Clone project
 
 > git clone XXXXX
 
